@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="DPA Banner" width="80%">
+  <img src="./banner.jpg" alt="DPA Banner" width="80%">
 </p>
 
 🌐 [English](README.md) | [한국어](README.ko.md) | [日本語](README.ja.md) | [中文](README.zh.md) | [Русский](README.ru.md) | [हिन्दी](README.hi.md)
